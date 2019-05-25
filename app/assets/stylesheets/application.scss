@@ -1,0 +1,33 @@
+@import "material";
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+
+
+.content-db { min-height: 50px; }
+.btn-signature { margin: 10% 10%; }
+
+.jumbotron {
+	background-color: #f7f7f7;
+}
+
+body, .calendar-jumb {
+	font-size: 1.1em;
+	text-align: center;
+	background-color: white;
+}
+section {
+	padding: 1em;
+}
+
+.center-blck {
+	z-index: 90;
+}
+
+.h-1100 {
+	object-fit: cover;
+	height: 330px;
+}
+
+.grey-bg {
+	background-color: #f7f7f7;
+	width: 100vw;
+}
